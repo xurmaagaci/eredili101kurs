@@ -100,9 +100,11 @@ function renderQuestion() {
                 class="w-full p-5 flex items-center justify-between rounded-2xl border-2 transition-all mb-4 ${classes}"
                 ${answered ? "disabled" : ""}>
 
-                <span class="text-xl ${/[\u0600-\u06FF]/.test(opt) ? 'font-arabic' : ''}"
-      dir="${/[\u0600-\u06FF]/.test(opt) ? 'rtl' : 'ltr'}"
-      style="unicode-bidi: plaintext;">
+                <span
+    class="text-xl"
+    dir="rtl"
+    style="unicode-bidi: isolate; text-align: right; font-family: 'Amiri', serif;"
+>
     ${opt}
 </span>
 
@@ -138,7 +140,9 @@ function renderQuestion() {
 
         <div class="p-6 md:p-10">
 
-           <p class="text-xl md:text-2xl font-medium mb-8 text-left"
+           <p class="text-xl md:text-2xl font-medium mb-8"
+   dir="ltr"
+   style="text-align: left;">
    dir="ltr"
    style="unicode-bidi: plaintext;">
     ${q.question}
@@ -164,9 +168,10 @@ function selectAnswer(idx) {
     selected = idx;
     answered = true;
 
-    if (questions[current].options[idx] === questions[current].correct_answer) {
-    score++;
-} {
+    const correct = questions[current].correct_answer;
+    const chosen = questions[current].options[idx];
+
+    if (chosen === correct) {
         score++;
     }
 
