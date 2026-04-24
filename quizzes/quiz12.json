@@ -1,0 +1,181 @@
+{
+  "quiz_lesson_12_v2": {
+    "title": "Dərs 12 - Feli cümlə",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... الرِّجَالُ إِلَى الْمَسْجِدِ (Kişilər getdilər)",
+        "options": [
+          "ذَهَبُوا",
+          "ذَهَبَ",
+          "ذَهَبَتْ",
+          "ذَهَبْنَا"
+        ],
+        "answer": "ذَهَبَ"
+      },
+      {
+        "id": 2,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... النِّساءُ مِنَ الْبَيْتِ (Qadınlar çıxdılar)",
+        "options": [
+          "خَرَجُوا",
+          "خَرَجْنَ",
+          "خَرَجَتْ",
+          "خَرَجْتُ"
+        ],
+        "answer": "خَرَجَتْ"
+      },
+      {
+        "id": 3,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... الأَخَوَانِ الصَّادِقَانِ (İki qardaş doğru söylədi)",
+        "options": [
+          "صَدَقَ",
+          "صَدَقَا",
+          "صَدَقُوا",
+          "صَدَقَتْ"
+        ],
+        "answer": "صَدَقَ"
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... الأُمَّهَاتُ رَبَّهُنَّ (Analar şükür etdilər)",
+        "options": [
+          "شَكَرْنَ",
+          "شَكَرُوا",
+          "شَكَرَتْ",
+          "شَكَرْتُمْ"
+        ],
+        "answer": "شَكَرَتْ"
+      },
+      {
+        "id": 5,
+        "type": "yes_no",
+        "question": "Fel cümlənin əvvəlində gəldikdə, fail cəm olsa belə fel təkdə qalır?",
+        "options": [
+          "Xeyr",
+          "Bəli"
+        ],
+        "answer": "Bəli"
+      },
+      {
+        "id": 6,
+        "type": "yes_no",
+        "question": "Fail 'Məcrur' (kəsra ilə) olmalıdır?",
+        "options": [
+          "Bəli",
+          "Xeyr"
+        ],
+        "answer": "Xeyr"
+      },
+      {
+        "id": 7,
+        "type": "yes_no",
+        "question": "Müənnəs (qadın) cinsində olan fail üçün felin sonuna 'tə-sakinə' (ـَتْ) artırılır?",
+        "options": [
+          "Bəli",
+          "Xeyr"
+        ],
+        "answer": "Bəli"
+      },
+      {
+        "id": 8,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: حَكَمَ الآبَاءُ بِالْعَدْلِ",
+        "options": [
+          "Atalar ədalətlə hökm verdilər.",
+          "Ata ədalətlə hökm verdi.",
+          "Analar ədalətlə hökm verdilər.",
+          "Atalar ədalət tələb etdilər."
+        ],
+        "answer": "Atalar ədalətlə hökm verdilər."
+      },
+      {
+        "id": 9,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: شَهِدَتِ الأُخْتَانِ بِالْحَقِّ",
+        "options": [
+          "Bacı haqq ilə şahid oldu.",
+          "İki bacı haqq ilə şahid oldu.",
+          "Bacılar haqq ilə şahid oldular.",
+          "İki bacı haqqı tələb etdi."
+        ],
+        "answer": "İki bacı haqq ilə şahid oldu."
+      },
+      {
+        "id": 10,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: أَمَرَ الرُّسُلُ النَّاسَ",
+        "options": [
+          "Elçi insanlara əmr etdi.",
+          "İnsanlar elçilərə əmr etdilər.",
+          "Elçilər insanlara əmr etdilər.",
+          "Elçilər insanlara rəhm etdilər."
+        ],
+        "answer": "Elçilər insanlara əmr etdilər."
+      },
+      {
+        "id": 11,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: سَحَرَ إِبْلِيسُ الْعَبْدَ",
+        "options": [
+          "İblis qula rəhm etdi.",
+          "Qul İblisi sehr etdi.",
+          "İblis qulu sehr etdi.",
+          "Qul İblisdən qaçdı."
+        ],
+        "answer": "İblis qulu sehr etdi."
+      },
+      {
+        "id": 12,
+        "type": "grammar_theory",
+        "question": "Feli cümlədə subyekt (Fail) hansı halda olur?",
+        "options": [
+          "Mərfu (Damma / əlif-nun)",
+          "Məcrur (Kəsra / yə-nun)",
+          "Mənsub (Fəthə / yə-nun)",
+          "Məczum (Sükun)"
+        ],
+        "answer": "Mərfu (Damma / əlif-nun)"
+      },
+      {
+        "id": 13,
+        "type": "grammar_theory",
+        "question": "Kişi cinsində olan cəm fail (məs: الرِّجَالُ) üçün fel hansı şəxsdə gəlir?",
+        "options": [
+          "هُوَ (tək)",
+          "هُمْ (cəm)",
+          "أَنْتُمْ (siz)",
+          "هِيَ (qadın tək)"
+        ],
+        "answer": "هُوَ (tək)"
+      },
+      {
+        "id": 14,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Qızlar hifz etdilər (əzbərlədilər).",
+        "options": [
+          "حَفِظُوا الْبَنَاتُ",
+          "حَفِظَتِ الْبَنَاتُ",
+          "حَفِظْنَ الْبَنَاتُ",
+          "حَفِظْتَ الْبَنَاتُ"
+        ],
+        "answer": "حَفِظَتِ الْبَنَاتُ"
+      },
+      {
+        "id": 15,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: İki oğul saleh oldu.",
+        "options": [
+          "صَلَحَ الْوَلَدَانِ",
+          "صَلَحُوا الْأَوْلَادُ",
+          "صَلَحَتِ الْوَلَدَانِ",
+          "صَلَحْتُ الْوَلَدَيْنِ"
+        ],
+        "answer": "صَلَحَ الْوَلَدَانِ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "quiz_lesson_9": {
+    "title": "Bitişən Əvəzliklər Testi",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın (Onun - kc başı): رَأْسُ.......",
+        "options": ["هُ", "هَا", "كَ", "نَا"],
+        "answer": "هُ"
+      },
+      {
+        "id": 2,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın (Bizim ağacımız): شَجَرَةُ.......",
+        "options": ["نَا", "كُمْ", "هُمْ", "ي"],
+        "answer": "نَا"
+      },
+      {
+        "id": 3,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın (Sizin - kc millətiniz): مِلَّةُ.......",
+        "options": ["كُمْ", "كُنَّ", "هُنَّ", "هَا"],
+        "answer": "كُمْ"
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın (Mənim nemətim): نَعِيمُ.......",
+        "options": ["ي", "كِ", "هُ", "نَا"],
+        "answer": "ي"
+      },
+      {
+        "id": 5,
+        "type": "yes_no",
+        "question": "“كَ” (kə) əvəzliyi “Sənin” (kişi cinsi) mənasını verir?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 6,
+        "type": "yes_no",
+        "question": "“هَا” (hā) əvəzliyi “Onların” (kişi cinsi) mənasını verir?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Xeyr"
+      },
+      {
+        "id": 7,
+        "type": "yes_no",
+        "question": "Bitişən əvəzliklər ismin sonuna birləşir?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 8,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: عَقْلُهُ كَبِيرٌ",
+        "options": [
+          "Sənin ağlın böyükdür.",
+          "Onun bəşəri böyükdür.",
+          "Onun ağlı böyükdür.",
+          "Bizim ağlımız böyükdür."
+        ],
+        "answer": "Onun ağlı böyükdür."
+      },
+      {
+        "id": 9,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: مِلَّتُكُمْ صَادِقَةٌ",
+        "options": [
+          "Sizin millətiniz sadiqdir.",
+          "Onların milləti sadiqdir.",
+          "Bizim millətimiz sadiqdir.",
+          "Sənin millətin sadiqdir."
+        ],
+        "answer": "Sizin millətiniz sadiqdir."
+      },
+      {
+        "id": 10,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: ثَمَرَتُكِ لَذِيذَةٌ",
+        "options": [
+          "Onun meyvəsi dadlıdır.",
+          "Mənim meyvəm dadlıdır.",
+          "Sənin (kc) meyvən dadlıdır.",
+          "Sənin (qc) meyvən dadlıdır."
+        ],
+        "answer": "Sənin (qc) meyvən dadlıdır."
+      },
+      {
+        "id": 11,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: ظَنُّهُمْ سَيِّءٌ",
+        "options": [
+          "Onların zənni pisdir.",
+          "Sizin zənni pisdir.",
+          "Bizim zənnimiz pisdir.",
+          "Onun zənni pisdir."
+        ],
+        "answer": "Onların zənni pisdir."
+      },
+      {
+        "id": 12,
+        "type": "grammar_theory",
+        "question": "“Onların” (qadın cinsi) mənasını verən bitişik əvəzlik hansıdır?",
+        "options": ["هُمْ", "هُنَّ", "كُنَّ", "نَا"],
+        "answer": "هُنَّ"
+      },
+      {
+        "id": 13,
+        "type": "grammar_theory",
+        "question": "“Mənim” (ي) əvəzliyi ismə birləşdikdə, ismin son hərfi hansı hərəkəni alır?",
+        "options": ["Damma", "Fəthə", "Kəsra", "Sükun"],
+        "answer": "Kəsra"
+      },
+      {
+        "id": 14,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Bizim ağacımız",
+        "options": ["شَجَرَتُهُ", "شَجَرَتُنَا", "شَجَرَتُكُمْ", "شَجَرَتِي"],
+        "answer": "شَجَرَتُنَا"
+      },
+      {
+        "id": 15,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Onun (qc) bətni",
+        "options": ["بَطْنُهُ", "بَطْنُهَا", "بَطْنِي", "بَطْنُكِ"],
+        "answer": "بَطْنُهَا"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "quiz_lesson_13": {
+    "title": "Dərs 13 (Zərflər)",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: الْكِتَابُ ....... الْمَكْتَبِ (Kitab masanın altındadır)",
+        "options": ["فَوْقَ", "وَرَاءَ", "تَحْتَ", "أَمَامَ"],
+        "answer": "تَحْتَ"
+      },
+      {
+        "id": 2,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: مَا ....... بَعْدَ الْخَبَرِ (Biz xəbərdən sonra kədərlənmədik)",
+        "options": ["حَزِنَّا", "مَا حَزِنَّا", "حَزِنْتُ", "حَزِنُوا"],
+        "answer": "حَزِنَّا"
+      },
+      {
+        "id": 3,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: هُوَ ....... مُحَمَّدٍ (O, Muhammədin arxasındadır)",
+        "options": ["عِنْدَ", "قَبْلَ", "وَرَاءَ", "تَحْتَ"],
+        "answer": "وَرَاءَ"
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: أَنْتَ ....... قَبْلَ الصَّلَاةِ (Sən namazdan əvvəl bildin - kc)",
+        "options": ["عَلِمْتَ", "عَلِمْتُ", "عَلِمُوا", "عَلِمْنَا"],
+        "answer": "عَلِمْتَ"
+      },
+      {
+        "id": 5,
+        "type": "yes_no",
+        "question": "Zərflərdən sonra gələn isim Məcrur (kəsra ilə) olmalıdır?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 6,
+        "type": "yes_no",
+        "question": "Mazi (keçmiş zaman) felini inkar etmək üçün 'ما' ədatından istifadə olunur?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 7,
+        "type": "yes_no",
+        "question": "'أَمَامَ' zərfi 'arxasında' mənasını verir?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Xeyr"
+      },
+      {
+        "id": 8,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: عَقَلْتُ الْوَعْدَ الْحَكِيمَ",
+        "options": [
+          "Hikmətli vədi dərk etdim.",
+          "Hikmətli vədi bildim.",
+          "Hikmətli vədi tanıdım.",
+          "Hikmətli vədi vəsf etdim."
+        ],
+        "answer": "Hikmətli vədi dərk etdim."
+      },
+      {
+        "id": 9,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: الْبِنْتَانِ عِنْدَ الأُمِّ",
+        "options": [
+          "Qız ananın yanındadır.",
+          "İki qız ananın yanındadırlar.",
+          "Bacı ananın yanındadır.",
+          "Qızlar ananın arxasındadırlar."
+        ],
+        "answer": "İki qız ananın yanındadırlar."
+      },
+      {
+        "id": 10,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: نَظَرْتُمْ فَوْقَ الْبَيْتِ",
+        "options": [
+          "Biz evin üstünə baxdıq.",
+          "Onlar evin üstünə baxdılar.",
+          "Siz evin üstünə baxdınız.",
+          "Mən evin üstünə baxdım."
+        ],
+        "answer": "Siz evin üstünə baxdınız."
+      },
+      {
+        "id": 11,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: مَا قَدَرُوا بَعْدَ الدُّنْيَا",
+        "options": [
+          "Onlar dünyadan sonra qadir oldular.",
+          "Onlar dünyadan sonra qadir olmadılar.",
+          "Biz dünyadan sonra qadir olmadıq.",
+          "Siz dünyadan əvvəl qadir olmadınız."
+        ],
+        "answer": "Onlar dünyadan sonra qadir olmadılar."
+      },
+      {
+        "id": 12,
+        "type": "grammar_theory",
+        "question": "'Qabla' (قَبْلَ) zərfinin mənası nədir?",
+        "options": ["Sonra", "Altında", "Əvvəl", "Yanında"],
+        "answer": "Əvvəl"
+      },
+      {
+        "id": 13,
+        "type": "grammar_theory",
+        "question": "'Varaa' (وَرَاءَ) zərfinin mənası nədir?",
+        "options": ["Qarşısında", "Üstündə", "Arxasında", "Yanında"],
+        "answer": "Arxasında"
+      },
+      {
+        "id": 14,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Sadiq dostu vəsf etdim.",
+        "options": [
+          "عَرَفْتُ الْوَلِيَّ الصَّادِقَ",
+          "وَصَفْنَا الْوَلِيَّ الصَّادِقَ",
+          "وَصَفْتُ الْوَلِيَّ الصَّادِقَ",
+          "وَصَفُوا الْوَلِيَّ الصَّادِقَ"
+        ],
+        "answer": "وَصَفْتُ الْوَلِيَّ الصَّادِقَ"
+      },
+      {
+        "id": 15,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: O (qc) tanımadı.",
+        "options": ["مَا عَرَفَ", "مَا عَرَفْتِ", "مَا عَرَفَتْ", "مَا عَرَفْنَا"],
+        "answer": "مَا عَرَفَتْ"
+      }
+    ]
+  }
+}

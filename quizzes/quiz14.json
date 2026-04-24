@@ -1,0 +1,140 @@
+{
+  "lesson_title": "Dərs 14: İndiki Zaman (مُضارِع)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_in_the_blanks",
+      "question": "نَحْنُ ....... الْمَاءَ الْبَارِدَ. (Biz soyuq suyu içirik)",
+      "options": ["يَشْرَبُونَ", "أَشْرَبُ", "تَشْرَبُ", "نَشْرَبُ"],
+      "answer": "نَشْرَبُ"
+    },
+    {
+      "id": 2,
+      "type": "fill_in_the_blanks",
+      "question": "هُمْ ....... الرَّسُولَ الصَّادِقَ. (Onlar sadiq elçini tanıyırlar)",
+      "options": ["يَعْرِفُونَ", "يَعْرِفُ", "تَعْرِفُونَ", "نَعْرِفُ"],
+      "answer": "يَعْرِفُونَ"
+    },
+    {
+      "id": 3,
+      "type": "fill_in_the_blanks",
+      "question": "أَنَا ....... أَمْرَ الْخَالِقِ. (Mən Yaradanın əmrini yazıram)",
+      "options": ["تَكْتُبُ", "أَكْتُبُ", "يَكْتُبُ", "نَكْتُبُ"],
+      "answer": "أَكْتُبُ"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_the_blanks",
+      "question": "هِيَ ....... عِنْدَ الصَّاحِبِ. (O - qc oturur)",
+      "options": ["تَقْعُدُ", "يَقْعُدُ", "تَقْعُدُونَ", "أَقْعُدُ"],
+      "answer": "تَقْعُدُ"
+    },
+    {
+      "id": 5,
+      "type": "fill_in_the_blanks",
+      "question": "أَنْتُمْ ....... الْحَدِيثَ الْحَكِيمَ. (Siz - kc hifz edirsiniz)",
+      "options": ["يَحْفَظُونَ", "نَحْفَظُ", "تَحْفَظُونَ", "تَحْفَظُ"],
+      "answer": "تَحْفَظُونَ"
+    },
+    {
+      "id": 6,
+      "type": "yes_no",
+      "question": "İndiki zaman felində 'Biz' (نَحْنُ) şəxsi üçün felin əvvəlinə 'NUN' (نـ) hərfi artırılır?",
+      "options": ["Xeyr", "Bəli"],
+      "answer": "Bəli"
+    },
+    {
+      "id": 7,
+      "type": "yes_no",
+      "question": "'يَكْتُبُونَ' (yaktubuuna) feli 'Siz yazırsınız' mənasını verir?",
+      "options": ["Bəli", "Xeyr"],
+      "answer": "Xeyr"
+    },
+    {
+      "id": 8,
+      "type": "yes_no",
+      "question": "Ərəb dilində 'أَنْتَ' (Sən - kc) və 'هِيَ' (O - qc) şəxslərinin müdari fəli eyni cür yazılır?",
+      "options": ["Xeyr", "Bəli"],
+      "answer": "Bəli"
+    },
+    {
+      "id": 9,
+      "type": "translation_ar_az",
+      "question": "يَسْجُدُ النَّاسُ لِلْخَالِقِ الْوَاحِدِ.",
+      "options": [
+        "İnsanlar tək Yaradana səcdə edirlər.",
+        "Mən tək Yaradana səcdə edirəm.",
+        "Onlar tək Yaradana səcdə etdilər.",
+        "Siz tək Yaradana səcdə edirsiniz."
+      ],
+      "answer": "İnsanlar tək Yaradan üçün səcdə edirlər."
+    },
+    {
+      "id": 10,
+      "type": "translation_ar_az",
+      "question": " نَنْظُرُ إِلَى الْبَيْتِ الْعَلِيِّ.",
+      "options": [
+        "O uca evə baxır.",
+        "Onlar uca evə baxırlar.",
+        "Biz uca evə baxırıq.",
+        "Mən uca evə baxıram."
+      ],
+      "answer": "Biz uca evə baxırıq."
+    },
+    {
+      "id": 11,
+      "type": "translation_ar_az",
+      "question": "يَصْبِرُونَ عَلَى الْعَذَابِ الشَّدِيدِ.",
+      "options": [
+        "Siz şiddətli əzaba səbr edirsiniz.",
+        "Onlar şiddətli əzaba səbr edirlər.",
+        "Biz şiddətli əzaba səbr edirik.",
+        "O şiddətli əzaba səbr edir."
+      ],
+      "answer": "Onlar şiddətli əzaba səbr edirlər."
+    },
+    {
+      "id": 12,
+      "type": "translation_ar_az",
+      "question": "تَخْرُجُ هِيَ مِنَ الْبَلَدِ الْبَعِيدِ.",
+      "options": [
+        "O uzaq ölkədən çıxır.",
+        "Sən uzaq ölkədən çıxırsan.",
+        "Mən uzaq ölkədən çıxıram.",
+        "Biz uzaq ölkədən çıxırıq."
+      ],
+      "answer": "O uzaq ölkədən çıxır."
+    },
+    {
+      "id": 13,
+      "type": "grammar_theory",
+      "question": "İndiki zaman felində 'Mən' (أَنَا) şəxsi üçün prefix (başlanğıc) hansı hərfdir?",
+      "options": ["تـ", "يـ", "أَ", "نـ"],
+      "answer": "أَ"
+    },
+    {
+      "id": 14,
+      "type": "translation_az_ar",
+      "question": "Onlar şükür edirlər.",
+      "options": [
+        "تَشْكُرُونَ",
+        "يَشْكُرُونَ",
+        "نَشْكُرُ",
+        "أَشْكُرُ"
+      ],
+      "answer": "يَشْكُرُونَ"
+    },
+    {
+      "id": 15,
+      "type": "translation_az_ar",
+      "question": "Mən su içirəm.",
+      "options": [
+        "أَشْرَبُ الْمَاءَ",
+        "تَشْرَبُ الْمَاءَ",
+        "يَشْرَبُ الْمَاءَ",
+        "نَشْرَبُ الْمَاءَ"
+      ],
+      "answer": "أَشْرَبُ الْمَاءَ"
+    }
+  ]
+}

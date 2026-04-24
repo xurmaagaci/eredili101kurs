@@ -1,0 +1,166 @@
+{
+  "lesson_title": "Ərəb dili 101: Dərs 5 (İzafə)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "İzafə birləşməsində birinci tərəf (Mudaf) haqqında hansı fikir doğrudur?",
+      "options": [
+        "Hər zaman 'əl' artikli ilə başlayır.",
+        "Heç vaxt 'əl' artikli və tənvin qəbul etmir.",
+        "Hər zaman kəsra ilə bitir.",
+        "Yalnız qadın cinsində olur."
+      ],
+      "correct_answer": "Heç vaxt 'əl' artikli və tənvin qəbul etmir."
+    },
+    {
+      "id": 2,
+      "question": "Azərbaycan dilinə tərcümə edin: كَلَامُ اللهِ",
+      "options": [
+        "Allah və kəlamı.",
+        "Allahın kəlamı.",
+        "Kəlam Allahındır.",
+        "Allahın kəlamları."
+      ],
+      "correct_answer": "Allahın kəlamı."
+    },
+    {
+      "id": 3,
+      "question": "İzafə birləşməsində ikinci tərəfin (Mudaf ileyh) hərəkəsi (adətən) necə olmalıdır?",
+      "options": [
+        "Damma (u/un)",
+        "Fəthə (a/ən)",
+        "Kəsra (i/in)",
+        "Hərəkəsiz (sükun)"
+      ],
+      "correct_answer": "Kəsra (i/in)"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu tamamlayın: حُكْمُ ....... (Rəbbin hökmü)",
+      "options": [
+        "الرَّبُّ",
+        "الرَّبَّ",
+        "الرَّبِّ",
+        "رَبٌّ"
+      ],
+      "correct_answer": "الرَّبِّ"
+    },
+    {
+      "id": 5,
+      "question": "Hansı birləşmə qrammatik cəhətdən DOĞRUDUR?",
+      "options": [
+        "الرِّزْقُ الْخَلْقِ",
+        "رِزْقُ الْخَلْقِ",
+        "رِزْقٌ الْخَلْقِ",
+        "رِزْقُ الْخَلْقُ"
+      ],
+      "correct_answer": "رِزْقُ الْخَلْقِ"
+    },
+    {
+      "id": 6,
+      "question": "Azərbaycan dilinə tərcümə edin: دَارُ الآخِرَةِ",
+      "options": [
+        "Axirət diyarı.",
+        "Diyar axirətdir.",
+        "Axirət diyarıdır.",
+        "Diyarların axirəti."
+      ],
+      "correct_answer": "Axirət diyarı."
+    },
+    {
+      "id": 7,
+      "question": "Boşluğu tamamlayın: إِلَهُ ....... (İnsanların ilahı)",
+      "options": [
+        "النَّاسُ",
+        "النَّاسِ",
+        "النَّاسَ",
+        "نَاسٌ"
+      ],
+      "correct_answer": "النَّاسِ"
+    },
+    {
+      "id": 8,
+      "question": "Tərcüməni seçin: 'Allahın vədi haqqdır.'",
+      "options": [
+        "وَعْدُ اللهِ حَقٌّ",
+        "الْوَعْدُ اللهِ حَقٌّ",
+        "وَعْدُ اللهُ حَقٌّ",
+        "وَعْدُ اللهِ الْحَقُّ"
+      ],
+      "correct_answer": "وَعْدُ اللهِ حَقٌّ"
+    },
+    {
+      "id": 9,
+      "question": "Bu birləşmə izafədirmi? الْقَوْلُ الْحَكِيمُ",
+      "options": [
+        "Bəli, izafədir.",
+        "Xeyr, bu isim-sifət söz birləşməsidir (Nə't-Mən'ut)."
+      ],
+      "correct_answer": "Xeyr, bu isim-sifət söz birləşməsidir (Nə't-Mən'ut)."
+    },
+    {
+      "id": 10,
+      "question": "Boşluğu tamamlayın: ....... الْمَوْتِ (Ölüm əcəli)",
+      "options": [
+        "أَجَلُ",
+        "الأَجَلُ",
+        "أَجَلٌ",
+        "أَجَلِ"
+      ],
+      "correct_answer": "أَجَلُ"
+    },
+    {
+      "id": 11,
+      "question": "Azərbaycan dilinə tərcümə edin: عَهْدُ اللهِ",
+      "options": [
+        "Allahın əhdi.",
+        "Allah əhd edəndir.",
+        "Əhd Allahdır.",
+        "Allahın əhdləri."
+      ],
+      "correct_answer": "Allahın əhdi."
+    },
+    {
+      "id": 12,
+      "question": "Hansı söz 'Mudaf' (birinci tərəf) ola bilər?",
+      "options": [
+        "الْكِتَابُ",
+        "كِتَابٌ",
+        "كِتَابُ",
+        "كِتَابٍ"
+      ],
+      "correct_answer": "كِتَابُ"
+    },
+    {
+      "id": 13,
+      "question": "Tərcüməni seçin: 'Cənnət neməti əzəmətlidir.'",
+      "options": [
+        "نِعْمَةُ الْجَنَّةِ عَظِيمَةٌ",
+        "الْنِّعْمَةُ الْجَنَّةِ عَظِيمَةٌ",
+        "نِعْمَةُ الْجَنَّةُ عَظِيمَةٌ",
+        "نِعْمَةُ الْجَنَّةِ عَظِيمٌ"
+      ],
+      "correct_answer": "نِعْمَةُ الْجَنَّةِ عَظِيمَةٌ"
+    },
+    {
+      "id": 14,
+      "question": "Azərbaycan dilinə tərcümə edin: فَضْلُ الطَّاعَةِ",
+      "options": [
+        "İtaətin fəziləti.",
+        "Fəzilətli itaət.",
+        "İtaətin fəzilətləri.",
+        "İtaət fəzilətlidir."
+      ],
+      "correct_answer": "İtaətin fəziləti."
+    },
+    {
+      "id": 15,
+      "question": "İzafə birləşməsində mənsubiyyət (aidlik) mənası varmı?",
+      "options": [
+        "Bəli",
+        "Xeyr"
+      ],
+      "correct_answer": "Bəli"
+    }
+  ]
+}

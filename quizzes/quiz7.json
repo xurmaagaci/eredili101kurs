@@ -1,0 +1,201 @@
+{
+  "lesson_title": "Ərəb dili 101: Dərs 7 (İşarə və Nisbi Əvəzliklər)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Uzaqda olan bir kişi üçün hansı işarə əvəzliyi istifadə olunur?",
+      "options": [
+        "هَذَا",
+        "تِلْكَ",
+        "ذَلِكَ",
+        "هَؤُلَاءِ"
+      ],
+      "correct_answer": "ذَلِكَ"
+    },
+    {
+      "id": 2,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: تِلْكَ الْجَنَّةُ",
+      "options": [
+        "Bu cənnət",
+        "O cənnət",
+        "Cənnətlər",
+        "O iki cənnət"
+      ],
+      "correct_answer": "O cənnət"
+    },
+    {
+      "id": 3,
+      "question": "Kişi cinsində olan 'hansı ki' (nisbi əvəzlik) hansıdır?",
+      "options": [
+        "الَّتِي",
+        "الَّذِينَ",
+        "الَّذِي",
+        "اللَّاتِي"
+      ],
+      "correct_answer": "الَّذِي"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu tamamlayın: ....... نِساءٌ (Onlar qadınlardır)",
+      "options": [
+        "هَؤُلَاءِ",
+        "أُولَئِكَ",
+        "ذَلِكَ",
+        "هَذَا"
+      ],
+      "correct_answer": "أُولَئِكَ"
+    },
+    {
+      "id": 5,
+      "question": "'Bu məğfirətdir' tərcüməsi hansıdır?",
+      "options": [
+        "هَذَا مَغْفِرَةٌ",
+        "هَذِهِ مَغْفِرَةٌ",
+        "ذَلِكَ مَغْفِرَةٌ",
+        "تِلْكَ مَغْفِرَةٌ"
+      ],
+      "correct_answer": "هَذِهِ مَغْفِرَةٌ"
+    },
+    {
+      "id": 6,
+      "question": "Cəm halında olan kişi cinsli nisbi əvəzlik (hansılar ki) hansıdır?",
+      "options": [
+        "الَّذِي",
+        "اللَّاتِي",
+        "الَّذِينَ",
+        "الَّتِي"
+      ],
+      "correct_answer": "الَّذِينَ"
+    },
+    {
+      "id": 7,
+      "question": "Azərbaycan dilinə tərcümə edin: هَذَا لِسَانٌ عَرَبِيٌّ",
+      "options": [
+        "O dil ərəbcədir.",
+        "Bu ərəb dilidir.",
+        "Ərəb dili gözəldir.",
+        "Bu dil ərəbcə deyil."
+      ],
+      "correct_answer": "Bu ərəb dilidir."
+    },
+    {
+      "id": 8,
+      "question": "Boşluğu tamamlayın: ذَلِكَ الْمَاءُ ....... (isti)",
+      "options": [
+        "حَارٌّ",
+        "بَارِدٌ",
+        "طَيِّبٌ",
+        "بَعِيدٌ"
+      ],
+      "correct_answer": "حَارٌّ"
+    },
+    {
+      "id": 9,
+      "question": "'Onlar' (uzaqdakılar) üçün ortaq işarə əvəzliyi hansıdır?",
+      "options": [
+        "هَؤُلَاءِ",
+        "أُولَئِكَ",
+        "تِلْكَ",
+        "ذَلِكَ"
+      ],
+      "correct_answer": "أُولَئِكَ"
+    },
+    {
+      "id": 10,
+      "question": "'Ad' sözünün ərəbcəsi nədir?",
+      "options": [
+        "لِسَانٌ",
+        "اِسْمٌ",
+        "غَيْبٌ",
+        "حِسَابٌ"
+      ],
+      "correct_answer": "اِسْمٌ"
+    },
+    {
+      "id": 11,
+      "question": "Qadın cinsində 'hansı ki' necə deyilir?",
+      "options": [
+        "الَّذِي",
+        "الَّذِينَ",
+        "الَّتِي",
+        "هَذِهِ"
+      ],
+      "correct_answer": "الَّتِي"
+    },
+    {
+      "id": 12,
+      "question": "Azərbaycan dilinə tərcümə edin: هَؤُلَاءِ أَصْحَابٌ",
+      "options": [
+        "Bu səhabədir.",
+        "Bunlar səhabələrdir.",
+        "Onlar səhabələrdir.",
+        "Səhabələr buradadır."
+      ],
+      "correct_answer": "Bunlar səhabələrdir."
+    },
+    {
+      "id": 13,
+      "question": "Boşluğu tamamlayın: ....... الْحِسَابُ شَدِيدٌ (O hesab şiddətlidir)",
+      "options": [
+        "هَذَا",
+        "ذَلِكَ",
+        "تِلْكَ",
+        "هَؤُلَاءِ"
+      ],
+      "correct_answer": "ذَلِكَ"
+    },
+    {
+      "id": 14,
+      "question": "'Qadın üçün istifadə olunan nisbi əvəzlik (cəmdə) hansıdır?",
+      "options": [
+        "الَّذِينَ",
+        "اللَّاتِي",
+        "الَّذِي",
+        "هَؤُلَاءِ"
+      ],
+      "correct_answer": "اللَّاتِي"
+    },
+    {
+      "id": 15,
+      "question": "'Qeyb' sözü ərəb dilində hansı cinsdədir?",
+      "options": [
+        "Müzəkkər (Kişi)",
+        "Müənnəs (Qadın)"
+      ],
+      "correct_answer": "Müzəkkər (Kişi)"
+    },
+    {
+      "id": 16,
+        "question": "Azərbaycan dilinə tərcümə edin: جَزَاءُ الصَّوْمِ خَيْرٌ",
+        "options": [
+          "Oruc xeyirdir.",
+          "Orucun cəzası xeyirdir.",
+          "Xeyir orucun cəzasıdır.",
+          "Oruc və cəza xeyirdir."
+        ],
+        "correct_answer": "Orucun cəzası xeyirdir."
+      },
+      {
+        "id": 17,
+        "question": "Boşluğu tamamlayın: ذَلِكَ الْعَرْشُ ....... (əzəmətlidir)",
+        "options": [
+          "عَظِيمٌ",
+          "الْعَظِيمُ",
+          "عَظِيمَةٌ",
+          "عَظِيمَانِ"
+        ],
+        "correct_answer": "عَظِيمٌ"
+      },
+      {
+        "id": 18,
+        "question": "Azərbaycan dilinə tərcümə edin: أَيُّ مَالٍ طَيِّبٌ؟",
+        "options": [
+          "Hansı mal pakdır?",
+          "Mal haradadır?",
+          "Bu mal pakdır.",
+          "Necə mal pakdır?"
+        ],
+        "correct_answer": "Hansı mal pakdır?"
+      }
+  ]
+}

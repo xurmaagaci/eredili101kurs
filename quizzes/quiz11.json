@@ -1,0 +1,140 @@
+{
+  "quiz_title": "Dərs 11: Keçmiş Zaman (ماضي)",
+  "questions": [
+    {
+      "question_id": 1,
+      "type": "fill_in_the_blanks",
+      "question_text": "أَنْتُمْ ....... كُلَّ الْأَخْبَارِ (Siz bütün xəbərləri yazdınız)",
+      "options": ["كَتَبْتَ", "كَتَبُوا", "كَتَبْتُمْ", "كَتَبْنَا"],
+      "correct_answer": "كَتَبْتُمْ"
+    },
+    {
+      "question_id": 2,
+      "type": "fill_in_the_blanks",
+      "question_text": "نَحْنُ ....... الشَّايَ الطَّيِّبَ (Biz yaxşı çay içdik)",
+      "options": ["شَرِبْنَا", "شَرِبْتُ", "شَرِبُوا", "شَرِبَتْ"],
+      "correct_answer": "شَرِبْنَا"
+    },
+    {
+      "question_id": 3,
+      "type": "fill_in_the_blanks",
+      "question_text": "هُمْ ....... الدُّكَّانَ الْقَرِيبَ (Onlar yaxın dükanı açdılar)",
+      "options": ["فَتَحْتُمْ", "فَتَحُوا", "فَتَحْتَ", "فَتَحْنَا"],
+      "correct_answer": "فَتَحُوا"
+    },
+    {
+      "question_id": 4,
+      "type": "fill_in_the_blanks",
+      "question_text": "هِيَ ....... الرِّسَالَةَ (O məktubu oxudu)",
+      "options": ["قَرَأَتْ", "قَرَأْتَ", "قَرَأُوا", "قَرَأْنَا"],
+      "correct_answer": "قَرَأَتْ"
+    },
+    {
+      "question_id": 5,
+      "type": "yes_no",
+      "question_text": "'كَتَبْتُ' sözü 'Biz yazdıq' mənasını verir?",
+      "options": ["Bəli", "Xeyr"],
+      "correct_answer": "Xeyr"
+    },
+    {
+      "question_id": 6,
+      "type": "yes_no",
+      "question_text": "Madi felində 'هم' (onlar - kc) üçün sonluq 'ـُوا' şəkilçisidir?",
+      "options": ["Bəli", "Xeyr"],
+      "correct_answer": "Bəli"
+    },
+    {
+      "question_id": 7,
+      "type": "yes_no",
+      "question_text": "'خَلَقَ' feli 'o yazdı' deməkdir?",
+      "options": ["Bəli", "Xeyr"],
+      "correct_answer": "Bəli"
+    },
+    {
+      "question_id": 8,
+      "type": "translation_ar_az",
+      "question_text": "جَمَعْنَا الْأَوْلِيَاءَ الصَّادِقِينَ",
+      "options": [
+        "Siz sadiq dostları topladınız.",
+        "Onlar sadiq dostları topladılar.",
+        "Biz sadiq dostları topladıq.",
+        "Mən sadiq dostları topladım."
+      ],
+      "correct_answer": "Biz sadiq dostları topladıq."
+    },
+    {
+      "question_id": 9,
+      "type": "translation_ar_az",
+      "question_text": "أَنْتَ شَرِبْتَ قَهْوَةً حَارَّةً",
+      "options": [
+        "Sən isti kofe içdin.",
+        "O isti kofe içdi.",
+        "Biz isti kofe içdik.",
+        "Siz isti kofe içdiniz."
+      ],
+      "correct_answer": "Sən isti kofe içdin."
+    },
+    {
+      "question_id": 10,
+      "type": "translation_ar_az",
+      "question_text": "ذَكَرَ فِرْعَوْنُ الْأَمْرَ",
+      "options": [
+        "Firon əmri yazdı.",
+        "Firon əmri topladı.",
+        "Firon əmri zikr etdi.",
+        "Firon əmri oxudu."
+      ],
+      "correct_answer": "Firon əmri zikr etdi."
+    },
+    {
+      "question_id": 11,
+      "type": "translation_ar_az",
+      "question_text": "مَلَكْتُمْ مَالَ الدُّنْيَا",
+      "options": [
+        "Onlar dünya malına malik oldular.",
+        "Siz dünya malına malik oldunuz.",
+        "Biz dünya malına malik olduq.",
+        "Mən dünya malına malik oldum."
+      ],
+      "correct_answer": "Siz dünya malına malik oldunuz."
+    },
+    {
+      "question_id": 12,
+      "type": "grammar_theory",
+      "question_text": "Keçmiş zaman felində 'أَنْتَ' (sən - kc) şəxsi üçün felin sonuna hansı şəkilçi artırılır?",
+      "options": ["ـْتُ", "ـْتُمْ", "ـْتَ", "ـْنَا"],
+      "correct_answer": "ـْتَ"
+    },
+    {
+      "question_id": 13,
+      "type": "grammar_theory",
+      "question_text": "Keçmiş zaman felində 'نحن' (biz) şəxsi üçün doğru sonluq hansıdır?",
+      "options": ["ـُوا", "ـْنَا", "ـْتُمْ", "ـَتْ"],
+      "correct_answer": "ـْنَا"
+    },
+    {
+      "id": 14,
+      "type": "translation_az_ar",
+      "question_text": "Mən sadiq bir məktub yazdım.",
+      "options": [
+        "كَتَبْتُ رِسالَةً صادِقَةً",
+        "كَتَبْنَا رِسالَةً صادِقَةً",
+        "كَتَبُوا رِسالَةً صادِقَةً",
+        "كَتَبَتْ رِسالَةً صادِقَةً"
+      ],
+      "correct_answer": "كَتَبْتُ رِسالَةً صادِقَةً"
+    },
+    {
+      "id": 15,
+      "type": "translation_az_ar",
+      "question_text": "Onlar dünyanı yaratmadılar.",
+      "options": [
+        "ما خَلَقْنَا الدُّنْيَا",
+        "ما خَلَقْتُمْ الدُّنْيَا",
+        "ما خَلَقُوا الدُّنْيَا",
+        "ما خَلَقْتَ الدُّنْيَا"
+      ],
+      "correct_answer": "ما خَلَقُوا الدُّنْيَا"
+    }
+  ]
+}

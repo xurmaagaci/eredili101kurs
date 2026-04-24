@@ -1,0 +1,170 @@
+{
+  "lesson_title": "Ərəb dili 101: Dərs 6 (Suallar və İkilik/Cəmin E'rabı)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "İsimləri ikilik (təsniyə) halına gətirmək üçün hansı şəkilçi artırılır?",
+      "options": [
+        "ون / ين",
+        "ات",
+        "ان / ين",
+        "ة"
+      ],
+      "correct_answer": "ان / ين"
+    },
+    {
+      "id": 2,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: أَيْنَ الْمُسْلِمَانِ؟",
+      "options": [
+        "Müsəlman haradadır?",
+        "İki müsəlman haradadır?",
+        "Müsəlmanlar haradadırlar?",
+        "Hansı müsəlman haradadır?"
+      ],
+      "correct_answer": "İki müsəlman haradadır?"
+    },
+    {
+      "id": 3,
+      "question": "'Kim' mənasını verən sual ədatı hansıdır?",
+      "options": [
+        "مَا",
+        "مَنْ",
+        "مَتَى",
+        "كَمْ"
+      ],
+      "correct_answer": "مَنْ"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu tamamlayın: الرَّسُولَانِ ....... (sadiqdirlər)",
+      "options": [
+        "صَادِقٌ",
+        "صَادِقَانِ",
+        "صَادِقُونَ",
+        "صَادِقَاتٌ"
+      ],
+      "correct_answer": "صَادِقَانِ"
+    },
+    {
+      "id": 5,
+      "question": "Hansı sual ədatı 'niyə / nə üçün' mənasını verir?",
+      "options": [
+        "كَيْفَ",
+        "لِمَاذَا",
+        "أَيْنَ",
+        "أَيُّ"
+      ],
+      "correct_answer": "لِمَاذَا"
+    },
+    {
+      "id": 6,
+      "question": "Azərbaycan dilinə tərcümə edin: الشَّمْسُ وَالْقَمَرُ آيَتَانِ",
+      "options": [
+        "Günəş və ay ayədir.",
+        "Günəş və ay iki ayədirlər.",
+        "Ayələr günəş və aydır.",
+        "Günəş ayədədir."
+      ],
+      "correct_answer": "Günəş və ay iki ayədirlər."
+    },
+    {
+      "id": 7,
+      "question": "Boşluğu tamamlayın: كَمْ ....... ؟ (neçə mələk)",
+      "options": [
+        "مَلَكٌ",
+        "مَلَكًا",
+        "الْمَلَكُ",
+        "مَلَكَيْنِ"
+      ],
+      "correct_answer": "مَلَكًا"
+    },
+    {
+      "id": 8,
+      "question": "'Keyfə' (كَيْفَ) sual ədatının mənası nədir?",
+      "options": [
+        "Harada",
+        "Nə vaxt",
+        "Necə",
+        "Hansı"
+      ],
+      "correct_answer": "Necə"
+    },
+    {
+      "id": 9,
+      "question": "Doğru birləşməni seçin: 'İki saleh qardaş'",
+      "options": [
+        "الأَخُ الصَّالِحُ",
+        "الأَخَوَانِ الصَّالِحَانِ",
+        "الأَخَوَانِ الصَّالِحِينَ",
+        "الإِخْوَةُ الصَّالِحُونَ"
+      ],
+      "correct_answer": "الأَخَوَانِ الصَّالِحَانِ"
+    },
+    {
+      "id": 10,
+      "question": "Müzəkkər cəm isimlər (məs: الْمُسْلِمُونَ) hansı halda 'ي - ن' (يـن) qəbul edir?",
+      "options": [
+        "Yalnız mübtəda olduqda",
+        "Nasb və carr hallarında",
+        "Heç vaxt dəyişmir",
+        "Yalnız sual cümlələrində"
+      ],
+      "correct_answer": "Nasb və carr hallarında"
+    },
+    {
+      "id": 11,
+      "question": "Azərbaycan dilinə tərcümə edin:  الآيَتَانِ بَيِّنَتَانِ",
+      "options": [
+        "Bu ayələr aydındır.",
+        "İki ayə aydındır.",
+        "O iki ayə aydındır.",
+        "Ayələr bu iki aydınlıqdadır."
+      ],
+      "correct_answer": "İki ayə aydındır."
+    },
+    {
+      "id": 12,
+      "question": "Hansı sual ədatı say soruşmaq üçün istifadə olunur?",
+      "options": [
+        "أَيُّ",
+        "كَمْ",
+        "مَاذَا",
+        "مَتَى"
+      ],
+      "correct_answer": "كَمْ"
+    },
+    {
+      "id": 13,
+      "question": "Boşluğu tamamlayın: هَلْ مُحَمَّدٌ .......؟ (sadiqdir?)",
+      "options": [
+        "صَادِقٌ",
+        "صَادِقًا",
+        "صَادِقٍ",
+        "الصَّادِقُ"
+      ],
+      "correct_answer": "صَادِقٌ"
+    },
+    {
+      "id": 14,
+      "question": "'Həyat gözəldir' cümləsində 'Həyat' sözünün ərəbcəsi hansıdır?",
+      "options": [
+        "حَيٌّ",
+        "حَيَاةٌ",
+        "الْحَيَاةُ",
+        "حَيَاتَانِ"
+      ],
+      "correct_answer": "الْحَيَاةُ"
+    },
+    {
+      "id": 15,
+      "question": "Azərbaycan dilinə tərcümə edin: مَنْ رَبُّكَ؟",
+      "options": [
+        "Rəbbin nədir?",
+        "Rəbbin kimdir?",
+        "Rəbbin haradadır?",
+        "Rəbbim kimdir?"
+      ],
+      "correct_answer": "Rəbbin kimdir?"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "quiz_lesson_10": {
+    "title": "Dərs 10 (Sözönü - Harf carr)",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: الإِمَامُ ....... الْمَسْجِدِ (İmam məsciddədir)",
+        "options": [
+          "مِنْ",
+          "فِي",
+          "عَلَى",
+          "إِلَى"
+        ],
+        "answer": "فِي"
+      },
+      {
+        "id": 2,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: الْغَضَبُ ....... الشَّيْطَانِ (Qəzəb şeytandandır)",
+        "options": [
+          "مَعَ",
+          "مِنْ",
+          "حَتَّى",
+          "بِـ"
+        ],
+        "answer": "مِنْ"
+      },
+      {
+        "id": 3,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: الْعَدْلُ ....... الصِّدْقِ (Ədalət sadiqlik kimidir)",
+        "options": [
+          "كَـ",
+          "عَنْ",
+          "فِي",
+          "لِـ"
+        ],
+        "answer": "كَـ"
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... الْوَالِدَيْنِ ثَوَابٌ (Valideynlər üçün savab var)",
+        "options": [
+          "إِلَى",
+          "لِـ",
+          "مَعَ",
+          "عَلَى"
+        ],
+        "answer": "لِـ"
+      },
+      {
+        "id": 5,
+        "type": "yes_no",
+        "question": "Sözönündən (حرف جر) sonra gələn ismin sonu damma (u) ilə bitməlidir?",
+        "options": [
+          "Xeyr",
+          "Bəli"
+        ],
+        "answer": "Xeyr"
+      },
+      {
+        "id": 6,
+        "type": "yes_no",
+        "question": "“عَلَى” (alā) sözönü “üzərində” mənasını verir?",
+        "options": [
+          "Bəli",
+          "Xeyr"
+        ],
+        "answer": "Bəli"
+      },
+      {
+        "id": 7,
+        "type": "yes_no",
+        "question": "“İkilik” (təsniyə) isimlər harf carrdan sonra “-eynِ” (ـَيْنِ) şəkilçisi ilə bitir?",
+        "options": [
+          "Bəli",
+          "Xeyr"
+        ],
+        "answer": "Bəli"
+      },
+      {
+        "id": 8,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: عَنِ الْبَلَدِ الْكَبِيرِ",
+        "options": [
+          "Böyük ölkədə.",
+          "Böyük ölkə barəsində.",
+          "Böyük ölkədən.",
+          "Böyük ölkəyə tərəf."
+        ],
+        "answer": "Böyük ölkə barəsində."
+      },
+      {
+        "id": 9,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: لِلصَّالِحِينَ شَفَاعَةٌ",
+        "options": [
+          "Saleh insanlar üçün şəfaət var.",
+          "Saleh insanlar şəfaətdədirlər.",
+          "Şəfaət saleh insanlardandır.",
+          "Saleh insanlarla şəfaət var."
+        ],
+        "answer": "Saleh insanlar üçün şəfaət var."
+      },
+      {
+        "id": 10,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: حَتَّى يَوْمِ الْقِيَامَةِ",
+        "options": [
+          "Qiyamət günündən bəri.",
+          "Qiyamət gününə qədər.",
+          "Qiyamət günü üçün.",
+          "Qiyamət günündə."
+        ],
+        "answer": "Qiyamət gününə qədər."
+      },
+      {
+        "id": 11,
+        "type": "translation_ar_az",
+        "question": "Tərcümə edin: بِمَالِكَ الطَّيِّبِ",
+        "options": [
+          "Sənin pak malınla.",
+          "Onun pak malı ilə.",
+          "Mənim pak malım üçün.",
+          "Bizim pak malımızdan."
+        ],
+        "answer": "Sənin pak malınla."
+      },
+      {
+        "id": 12,
+        "type": "grammar_theory",
+        "question": "Harf carrdan sonra gələn isim hansı halda olmalıdır?",
+        "options": [
+          "Mərfu",
+          "Məcrur",
+          "Mənsub",
+          "Məczum"
+        ],
+        "answer": "Məcrur"
+      },
+      {
+        "id": 13,
+        "type": "grammar_theory",
+        "question": "Aşağıdakılardan hansı “tərəf / -ə / -a” mənasını verən harf carrdır?",
+        "options": [
+          "فِي",
+          "إِلَى",
+          "مِنْ",
+          "عَلَى"
+        ],
+        "answer": "إِلَى"
+      },
+      {
+        "id": 14,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Müxtəlif surələrdə",
+        "options": [
+          "مِنَ السُّوَرِ الْمُخْتَلِفَةِ",
+          "فِي السُّوَرِ الْمُخْتَلِفَةِ",
+          "عَلَى السُّوَرِ الْمُخْتَلِفَةِ",
+          "كَالسُّوَرِ الْمُخْتَلِفَةِ"
+        ],
+        "answer": "فِي السُّوَرِ الْمُخْتَلِفَةِ"
+      },
+      {
+        "id": 15,
+        "type": "translation_az_ar",
+        "question": "Tərcümə edin: Ağacın meyvəsi barəsində",
+        "options": [
+          "مَعَ ثَمَرَةِ الشَّجَرَةِ",
+          "عَنِ ثَمَرَةِ الشَّجَرَةِ",
+          "بِثَمَرَةِ الشَّجَرَةِ",
+          "حَتَّى ثَمَرَةِ الشَّجَرَةِ"
+        ],
+        "answer": "عَنِ ثَمَرَةِ الشَّجَرَةِ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "lesson_title": "Mübtəda və Xəbər",
+  "grammar_focus": "Sadə isim cümlələri",
+  "questions": [
+    {
+      "question": "\"Yaradan birdir\" cümləsinin düzgün qrammatik formasını seçin:",
+      "options": ["خَالِقٌ وَاحِدٌ", "الْخَالِقُ وَاحِدٌ", "الْخَالِقُ الْوَاحِدُ"],
+      "correct_answer": "الْخَالِقُ وَاحِدٌ"
+    },
+    {
+      "question": "Mənanı tamamlayın (Mübtəda-Xəbər): الْبَيْتُ ....... (Ev böyükdür).",
+      "options": ["كَبِيرٌ", "الْكَبِيرُ", "كَبِيرٍ"],
+      "correct_answer": "كَبِيرٌ"
+    },
+    {
+      "question": "\"İslam dindir\" cümləsi hansıdır?",
+      "options": ["الْإِسْلَامُ دِينٌ", "إِسْلَامٌ دِينٌ", "الْإِسْلَامُ الدِّينُ"],
+      "correct_answer": "الْإِسْلَامُ دِينٌ"
+    },
+    {
+      "question": "Cümləni tamamlayın: الْكِتَابُ ....... (Kitab nurdur).",
+      "options": ["نُورٌ", "النُّورُ", "نُورٍ"],
+      "correct_answer": "نُورٌ"
+    },
+    {
+      "question": "\"Mömin sadiqdir\" tərcüməsi hansıdır?",
+      "options": ["الْمُؤْمِنُ صَادِقٌ", "مُؤْمِنٌ صَادِقٌ", "الْمُؤْمِنُ الصَّادِقُ"],
+      "correct_answer": "الْمُؤْمِنُ صَادِقٌ"
+    },
+    {
+      "question": "Tərcümə edin: \"Elçi birdir\" -> ....... وَاحِدٌ",
+      "options": ["الرَّسُولُ", "رَسُولٌ", "رَسُولاً"],
+      "correct_answer": "الرَّسُولُ"
+    },
+    {
+      "question": "\"Əməl salehdir\" cümləsini seçin:",
+      "options": ["الْعَمَلُ صَالِحٌ", "عَمَلٌ صَالِحٌ", "الْعَمَلُ الصَّالِحُ"],
+      "correct_answer": "الْعَمَلُ صَالِحٌ"
+    },
+    {
+      "question": "Mənanı tamamlayın: النَّبِيُّ ....... (Peyğəmbər sadiqdir).",
+      "options": ["صَادِقٌ", "الصَّادِقُ", "صَادِقٍ"],
+      "correct_answer": "صَادِقٌ"
+    },
+    {
+      "question": "\"İnsan quldur\" ərəb dilində düzgün necə yazılır?",
+      "options": ["الْإِنْسَانُ عَبْدٌ", "إِنْسَانٌ عَبْدٌ", "الْإِنْسَانُ الْعَبْدُ"],
+      "correct_answer": "الْإِنْسَانُ عَبْدٌ"
+    },
+    {
+      "question": "Cümləni tamamlayın: الْمَسْجِدُ ....... (Məscid böyükdür).",
+      "options": ["كَبِيرٌ", "الْكَبِيرُ", "كَبِيرَةٌ"],
+      "correct_answer": "كَبِيرٌ"
+    },
+    {
+      "question": "\"Zikr haqqdır\" cümləsini tapın:",
+      "options": ["الذِّكْرُ حَقٌّ", "ذِكْرٌ حَقٌّ", "الذِّكْرُ الْحَقُّ"],
+      "correct_answer": "الذِّكْرُ حَقٌّ"
+    },
+    {
+      "question": "Tərcümə edin: \"Alim səbrlidir\" -> الْعَالِمُ .......",
+      "options": ["صَابِرٌ", "الصَّابِرُ", "صَابِرَةٌ"],
+      "correct_answer": "صَابِرٌ"
+    },
+    {
+      "question": "\"Din haqqdır\" tərcüməsi:",
+      "options": ["الدِّينُ حَقٌّ", "دِينٌ حَقٌّ", "الدِّينُ الْحَقُّ"],
+      "correct_answer": "الدِّينُ حَقٌّ"
+    },
+    {
+      "question": "Boşluğu doldurun: ....... عَظِيمٌ (Kitab əzəmətlidir).",
+      "options": ["الْكِتَابُ", "كِتَابٌ", "الْكِتَابَ"],
+      "correct_answer": "الْكِتَابُ"
+    },
+    {
+      "question": "\"Qul sadiqdir\" hansı variantdadır?",
+      "options": ["الْعَبْدُ صَادِقٌ", "عَبْدٌ صَادِقٌ", "الْعَبْدُ الصَّادِقُ"],
+      "correct_answer": "الْعَبْدُ صَادِقٌ"
+    }
+  ]
+}

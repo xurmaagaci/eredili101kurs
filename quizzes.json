@@ -1,0 +1,18 @@
+[
+  { "id": "quiz1", "title": "İsmi cümlə. Mübtəda və Xəbər", "description": "" },
+  { "id": "quiz2", "title": "Cins", "description": "" },
+  { "id": "quiz3", "title": "Cəm", "description": "" },
+  { "id": "quiz4", "title": "İsim sifət", "description": "" },
+  { "id": "quiz5", "title": "İzafə", "description": "" },
+  { "id": "quiz6", "title": "Cəm və ikilikdə hallanma, sual ədatları", "description": "" },
+  { "id": "quiz7", "title": "İşarə və nisbi əvəzlikləri", "description": "" },
+  { "id": "quiz8", "title": "Şəxs əvəzlikləri (Damir)", "description": "" },
+  { "id": "quiz9", "title": "Bitişən əvəzliklər", "description": "" },
+  { "id": "quiz10", "title": "Sözönü - Harf carr", "description": "" },
+  { "id": "quiz11", "title": "Keçmiş zaman feli", "description": "" },
+  { "id": "quiz12", "title": "Feili cümlə", "description": "" },
+  { "id": "quiz13", "title": "Zərflər", "description": "" },
+  { "id": "quiz14", "title": "İndiki zaman feli", "description": "" },
+  { "id": "quiz15", "title": "Gələcək zaman və bəzi ədatlar", "description": "" },
+  { "id": "quizfinal", "title": "Təkrar", "description": "" }
+]

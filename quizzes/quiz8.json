@@ -1,0 +1,168 @@
+{
+  "lesson_title": "Ərəb dili 101: Dərs 8 (Şəxs Əvəzlikləri)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kişi cinsində 'Sən' mənasını verən əvəzlik hansıdır?",
+      "options": [
+        "أَنْتِ",
+        "أَنْتَ",
+        "أَنَا",
+        "هُوَ"
+      ],
+      "correct_answer": "أَنْتَ"
+    },
+    {
+      "id": 2,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: نَحْنُ مُسْلِمُونَ",
+      "options": [
+        "Mən müsəlmanam.",
+        "Siz müsəlmanlarsınız.",
+        "Biz müsəlmanlarıq.",
+        "Onlar müsəlmandırlar."
+      ],
+      "correct_answer": "Biz müsəlmanlarıq."
+    },
+    {
+      "id": 3,
+      "question": "Qadın cinsində 'Onlar' hansı əvəzliklə ifadə olunur?",
+      "options": [
+        "هُمْ",
+        "هُنَّ",
+        "أَنْتُمْ",
+        "أَنْتُنَّ"
+      ],
+      "correct_answer": "هُنَّ"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu tamamlayın: هُوَ ....... (yetimdir)",
+      "options": [
+        "يَتِيمٌ",
+        "يَتِيمَةٌ",
+        "أَجْرٌ",
+        "رُوحٌ"
+      ],
+      "correct_answer": "يَتِيمٌ"
+    },
+    {
+      "id": 5,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: هُمْ أَصْحَابُ الْجَنَّةِ",
+      "options": [
+        "Biz cənnət sahibləriyik.",
+        "Onlar cənnət sahibləridir.",
+        "Siz cənnət sahiblərisiniz.",
+        "O cənnət sahibidir."
+      ],
+      "correct_answer": "Onlar cənnət sahibləridir."
+    },
+    {
+      "id": 6,
+      "question": "'Mən Yaradanın quluyam' cümləsinin ərəbcəsi hansıdır?",
+      "options": [
+        "أَنَا عَبْدُ الْخَالِقِ",
+        "هُوَ عَبْدُ الْخَالِقِ",
+        "أَنْتَ عَبْدُ الْخَالِقِ",
+        "نَحْنُ عِبَادُ الْخَالِقِ"
+      ],
+      "correct_answer": "أَنَا عَبْدُ الْخَالِقِ"
+    },
+    {
+      "id": 7,
+      "question": "Azərbaycan dilinə tərcümə edin: هَذَا إِثْمٌ كَبِيرٌ",
+      "options": [
+        "Bu böyük bir günahdır.",
+        "O böyük bir qədərdir.",
+        "Bu böyük bir mükafatdır.",
+        "Bu şiddətli bir sehrdir."
+      ],
+      "correct_answer": "Bu böyük bir günahdır."
+    },
+    {
+      "id": 8,
+      "question": "Boşluğu tamamlayın: أَنَا ....... (şahidəm - kişi cinsində)",
+      "options": [
+        "شَاهِدٌ",
+        "شَاهِدَةٌ",
+        "شُهَدَاءُ",
+        "شَاهِدِينَ"
+      ],
+      "correct_answer": "شَاهِدٌ"
+    },
+    {
+      "id": 9,
+      "question": "'Qapılar' (cəm) sözünün ərəbcəsi hansıdır?",
+      "options": [
+        "بَابٌ",
+        "أَبْوَابٌ",
+        "مَكَانٌ",
+        "رِجَالٌ"
+      ],
+      "correct_answer": "أَبْوَابٌ"
+    },
+    {
+      "id": 10,
+      "question": "Boşluğu tamamlayın: هِيَ ....... (hikmətli bir kəlimədir)",
+      "options": [
+        "كَلِمَةٌ حَكِيمَةٌ",
+        "كَلِمَةٌ حَكِيمٌ",
+        "كَلَامٌ حَكِيمٌ",
+        "كَلِمَاتٌ حَكِيمَةٌ"
+      ],
+      "correct_answer": "كَلِمَةٌ حَكِيمَةٌ"
+    },
+    {
+      "id": 11,
+      "question": "Azərbaycan dilinə tərcümə edin: أَنْتِ أُمٌّ صَابِرَةٌ",
+      "options": [
+        "Sən səbrli bir anasan.",
+        "Mən səbrli bir anayam.",
+        "O səbrli bir anadır.",
+        "Siz səbrli analarsınız."
+      ],
+      "correct_answer": "Sən səbrli bir anasan."
+    },
+    {
+      "id": 12,
+      "question": "Hansı əvəzlik həm kişi, həm də qadın üçün ortaqdır?",
+      "options": [
+        "هُوَ",
+        "أَنْتَ",
+        "أَنَا",
+        "أَنْتِ"
+      ],
+      "correct_answer": "أَنَا"
+    },
+    {
+      "id": 13,
+      "question": "Boşluğu tamamlayın: أَنْتُنَّ ....... (hafizlərsiniz/qc)",
+      "options": [
+        "حَافِظٌ",
+        "حَافِظُونَ",
+        "حَافِظَاتٌ",
+        "حَافِظَةٌ"
+      ],
+      "correct_answer": "حَافِظَاتٌ"
+    },
+    {
+      "id": 14,
+      "question": "'Biz' əvəzliyi həm kişi, həm qadın üçün eynidir?",
+      "options": [
+        "Bəli",
+        "Xeyr"
+      ],
+      "correct_answer": "Bəli"
+    },
+    {
+      "id": 15,
+      "question": "Uzaqdakı bir qadın üçün 'O' işarə əvəzliyi hansıdır?",
+      "options": [
+        "ذَلِكَ",
+        "تِلْكَ",
+        "هَذِهِ",
+        "هِيَ"
+      ],
+      "correct_answer": "تِلْكَ"
+    }
+  ]
+}

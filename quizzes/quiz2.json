@@ -1,0 +1,166 @@
+{
+  "lesson_title": "Dərs 2: Cins",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: الْخَالِقُ وَاحِدٌ",
+      "options": [
+        "Yaradan birdir.",
+        "Ruzi verən birdir.",
+        "Yaradan böyükdür.",
+        "Allah birdir."
+      ],
+      "correct_answer": "Yaradan birdir."
+    },
+    {
+      "id": 2,
+      "question": "Cins uyğunluğunu nəzərə alaraq boşluğu tamamlayın: الأُمُّ .......",
+      "options": [
+        "صَابِرَةٌ",
+        "صَابِرٌ",
+        "صَادِقٌ",
+        "عَالِمٌ"
+      ],
+      "correct_answer": "صَابِرَةٌ"
+    },
+    {
+      "id": 3,
+      "question": "Bu cümlə qrammatik cəhətdən doğrudurmu? الْبَيْتُ كَبِيرَةٌ",
+      "options": [
+        "Bəli",
+        "Xeyr"
+      ],
+      "correct_answer": "Xeyr"
+    },
+    {
+      "id": 4,
+      "question": "'Bacı gözəldir' cümləsinin doğru tərcüməsini seçin:",
+      "options": [
+        "الأُخْتُ جَمِيلَةٌ",
+        "الأُخْتُ جَمِيلٌ",
+        "الأَخُ جَمِيلٌ",
+        "الْبِنْتُ جَمِيلَةٌ"
+      ],
+      "correct_answer": "الأُخْتُ جَمِيلَةٌ"
+    },
+    {
+      "id": 5,
+      "question": "Doğru xəbəri seçin: الْكِتَابُ ....... (aydın dəlil)",
+      "options": [
+        "بَيِّنَةٌ",
+        "خَالِدَةٌ",
+        "عَالِمَةٌ",
+        "صَغِيرَةٌ"
+      ],
+      "correct_answer": "بَيِّنَةٌ"
+    },
+    {
+      "id": 6,
+      "question": "Azərbaycan dilinə tərcümə edin: الْجَنَّةُ خَالِدَةٌ",
+      "options": [
+        "Cənnət əbədidir.",
+        "Cənnət böyükdür.",
+        "Cənnət haqqdır.",
+        "Dağ əbədidir."
+      ],
+      "correct_answer": "Cənnət əbədidir."
+    },
+    {
+      "id": 7,
+      "question": "Peyğəmbər sadiqdir' cümləsinin tərcüməsini seçin:",
+      "options": [
+        "النَّبِيُّ صَادِقٌ",
+        "النَّبِيُّ صَادِقَةٌ",
+        "الرَّسُولُ شَاهِدٌ",
+        "النَّبِيُّ صَالِحٌ"
+      ],
+      "correct_answer": "النَّبِيُّ صَادِقٌ"
+    },
+    {
+      "id": 8,
+      "question": "Boşluğu tamamlayın: الْبِنْتُ ....... (zəkalıdır)",
+      "options": [
+        "ذَكِيَّةٌ",
+        "ذَكِيٌّ",
+        "عَالِمَةٌ",
+        "حَافِظَةٌ"
+      ],
+      "correct_answer": "ذَكِيَّةٌ"
+    },
+    {
+      "id": 9,
+      "question": "Azərbaycan dilinə tərcümə edin: الْجَبَلُ كَبِيرٌ",
+      "options": [
+        "Dağ böyükdür.",
+        "Ev böyükdür.",
+        "Dağ əzəmətlidir.",
+        "Məscid böyükdür."
+      ],
+      "correct_answer": "Dağ böyükdür."
+    },
+    {
+      "id": 10,
+      "question": "Aşağıdakı sözlərdən hansı müənnəs (qadın) cinsindədir?",
+      "options": [
+        "الْهِدَايَةُ",
+        "الْإِنْسَانُ",
+        "الْعَمَلُ",
+        "الذِّكْرُ"
+      ],
+      "correct_answer": "الْهِدَايَةُ"
+    },
+    {
+      "id": 11,
+      "question": "Azərbaycan dilinə tərcümə edin: الظَّالِمُ كَافِرٌ",
+      "options": [
+        "Zalım kafirdir.",
+        "Zalım müşrikdir.",
+        "Münafiq kafirdir.",
+        "Zalım zalımdır."
+      ],
+      "correct_answer": "Zalım kafirdir."
+    },
+    {
+      "id": 12,
+      "question": "Doğru tərcüməni seçin: 'Dayı hafizdir.'",
+      "options": [
+        "الْخَالُ حَافِظٌ",
+        "الْعَمُّ حَافِظٌ",
+        "الْخَالُ حَافِظَةٌ",
+        "الأَبُ حَافِظٌ"
+      ],
+      "correct_answer": "الْخَالُ حَافِظٌ"
+    },
+    {
+      "id": 13,
+      "question": "İsim cümləsində mübtəda adətən hansı əlamətlə gəlir?",
+      "options": [
+        "ال (əl) artikli ilə müəyyən halda",
+        "Tənvin ilə qeyri-müəyyən halda"
+      ],
+      "correct_answer": "ال (əl) artikli ilə müəyyən halda"
+    },
+    {
+      "id": 14,
+      "question": "Azərbaycan dilinə tərcümə edin: الْعَالِمُ مُؤْمِنٌ",
+      "options": [
+        "Alim mömindir.",
+        "Qul mömindir.",
+        "Alim sadiqdir.",
+        "İnsan mömindir."
+      ],
+      "correct_answer": "Alim mömindir."
+    },
+    {
+      "id": 15,
+      "question": "Boşluğu tamamlayın: الأُخْتُ ....... (abiddir)",
+      "options": [
+        "عَابِدَةٌ",
+        "عَابِدٌ",
+        "سَاجِدَةٌ",
+        "شَاكِرَةٌ"
+      ],
+      "correct_answer": "عَابِدَةٌ"
+    }
+  ]
+}

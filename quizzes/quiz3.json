@@ -1,0 +1,168 @@
+{
+  "lesson_title": "Dərs 3 (Cəmlər)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Düzgün cəm formasını seçin (Müzəkkər): الْمُسْلِمُ",
+      "options": [
+        "الْمُسْلِمُونَ",
+        "الْمُسْلِمَاتُ",
+        "الْمَسَالِمُ",
+        "الْمُسْلِمُات"
+      ],
+      "correct_answer": "الْمُسْلِمُونَ"
+    },
+    {
+      "id": 2,
+      "question": "Azərbaycan dilinə tərcümə edin: الرُّسُلُ صَادِقُونَ",
+      "options": [
+        "Elçi sadiqdir.",
+        "Elçilər sadiqdirlər.",
+        "Peyğəmbər sadiqdir.",
+        "Elçilər sadiqdir (qadın)."
+      ],
+      "correct_answer": "Elçilər sadiqdirlər."
+    },
+    {
+      "id": 3,
+      "question": "Boşluğu qrammatik qaydaya uyğun tamamlayın: الأُمَّهَاتُ .......",
+      "options": [
+        "صَابِرٌ",
+        "صَابِرُونَ",
+        "صَابِرَاتٌ",
+        "صَابِرَةٌ"
+      ],
+      "correct_answer": "صَابِرَاتٌ"
+    },
+    {
+      "id": 4,
+      "question": "'Kitablar' sözünün ərəb dilində cəm forması hansıdır? (Sınıq cəm)",
+      "options": [
+        "كِتَابُونَ",
+        "كِتَابَاتٌ",
+        "كُتُبٌ",
+        "كَاتِبُونَ"
+      ],
+      "correct_answer": "كُتُبٌ"
+    },
+    {
+      "id": 5,
+      "question": "Cümləni tamamlayın: الصَّلَاةُ .......",
+      "options": [
+        "نُورٌ",
+        "نُورُونَ",
+        "أَنْوَارٌ",
+        "نُورَةٌ"
+      ],
+      "correct_answer": "نُورٌ"
+    },
+    {
+      "id": 6,
+      "question": "'Məscidlər böyükdür' cümləsinin düzgün tərcüməsini seçin:",
+      "options": [
+        "الْمَسْجِدُ كَبِيرٌ",
+        "الْمَسَاجِدُ كَبِيرُونَ",
+        "الْمَسَاجِدُ كَبِيرَةٌ",
+        "الْمَسَاجِدُ كَبِيرَاتٌ"
+      ],
+      "correct_answer": "الْمَسَاجِدُ كَبِيرَةٌ"
+    },
+    {
+      "id": 7,
+      "question": "Müənnəs (qadın) cinsində 'Düzgün cəm' (Səlim) sonluğu hansıdır?",
+      "options": [
+        "ون",
+        "ين",
+        "ات",
+        "ة"
+      ],
+      "correct_answer": "ات"
+    },
+    {
+      "id": 8,
+      "question": "Azərbaycan dilinə tərcümə edin: النَّاسُ خَاسِرُونَ",
+      "options": [
+        "İnsan uduzandır.",
+        "İnsanlar uduzanlardır.",
+        "Qövm cahildir.",
+        "İnsanlar zalımdırlar."
+      ],
+      "correct_answer": "İnsanlar uduzanlardır."
+    },
+    {
+      "id": 9,
+      "question": "Bu cümlə qrammatik cəhətdən doğrudurmu? الْبَنَاتُ صَالِحَاتٌ",
+      "options": [
+        "Bəli",
+        "Xeyr"
+      ],
+      "correct_answer": "Bəli"
+    },
+    {
+      "id": 10,
+      "question": "Boşluğu tamamlayın: الصَّوْمُ .......",
+      "options": [
+        "وَاجِبَةٌ",
+        "وَاجِبٌ",
+        "وَاجِبُونَ",
+        "وَاجِبَاتٌ"
+      ],
+      "correct_answer": "وَاجِبٌ"
+    },
+    {
+      "id": 11,
+      "question": "'Zəkalı' sözünün cəm forması (Sınıq cəm) hansıdır?",
+      "options": [
+        "ذَكِيُّونَ",
+        "أَذْكِيَاءُ",
+        "ذَكِيَّاتٌ",
+        "ذَكَوَاتٌ"
+      ],
+      "correct_answer": "أَذْكِيَاءُ"
+    },
+    {
+      "id": 12,
+      "question": "Azərbaycan dilinə tərcümə edin: الطَّعَامُ لَذِيذٌ",
+      "options": [
+        "Yemək dadlıdır.",
+        "Yemək pisdir.",
+        "Yemək çoxdur.",
+        "Yeməklər dadlıdır."
+      ],
+      "correct_answer": "Yemək dadlıdır."
+    },
+    {
+      "id": 13,
+      "question": "Aşağıdakılardan hansı 'Sınıq cəm' (Cəm ət-Təksir) növünə aiddir?",
+      "options": [
+        "مُسْلِمُونَ",
+        "مُؤْمِنَاتٌ",
+        "بُيُوتٌ",
+        "صَابِرُونَ"
+      ],
+      "correct_answer": "بُيُوتٌ"
+    },
+    {
+      "id": 14,
+      "question": "'Həcc vacibdir' tərcüməsini seçin:",
+      "options": [
+        "الْحَجُّ وَاجِبٌ",
+        "الْحَجُّ وَاجِبَةٌ",
+        "الزَّكَاةُ وَاجِبَةٌ",
+        "الْحَجُّ نُورٌ"
+      ],
+      "correct_answer": "الْحَجُّ وَاجِبٌ"
+    },
+    {
+      "id": 15,
+      "question": "Cəmdə olan qeyri-insan varlıqların (məs: dağlar, evlər) xəbəri hansı cinsdə gəlir?",
+      "options": [
+        "Tək, Kişi cinsi",
+        "Tək, Qadın cinsi",
+        "Cəm, Kişi cinsi",
+        "Cəm, Qadın cinsi"
+      ],
+      "correct_answer": "Tək, Qadın cinsi"
+    }
+  ]
+}

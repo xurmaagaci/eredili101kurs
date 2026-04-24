@@ -1,0 +1,142 @@
+{
+  "quiz_lesson_15": {
+    "title": "Dərs 15 - Gələcək Zaman və Bağlayıcılar",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... يَعْمَلُونَ الصَّالِحَاتِ. (Onlar uzaq gələcəkdə yaxşı əməllər edəcəklər)",
+        "options": ["سَوْفَ", "لَا", "إِذَا", "سَـ"],
+        "answer": "سَوْفَ"
+      },
+      {
+        "id": 2,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: نَحْنُ ....... نَكْفُرُ بِالرَّبِّ. (Biz Rəbbi inkar etmirik)",
+        "options": ["مَا", "أَوْ", "لَا", "سَـ"],
+        "answer": "لَا"
+      },
+      {
+        "id": 3,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: أَتَشْرَبُ مَاءً ....... شَايًا؟ (Su içirsən yoxsa çay?)",
+        "options": ["أَوْ", "إِذَا", "لَوْ", "سَـ"],
+        "answer": "أَوْ"
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: ....... تَخْرُجُ الشَّمْسُ نَفْرَحُ. (Günəş çıxanda sevinirik)",
+        "options": ["لَا", "إِذَا", "سَوْفَ", "أَوْ"],
+        "answer": "إِذَا"
+      },
+      {
+        "id": 5,
+        "type": "fill_in_the_blanks",
+        "question": "Boşluğu tamamlayın: أَنَا .......أَذْهَبُ إِلَى الْمَسْجِدِ. (Mən tezliklə məscidə gedəcəyəm)",
+        "options": ["سَوْفَ", "لَوْ", "إِذَا", "سَـ"],
+        "answer": "سَـ"
+      },
+      {
+        "id": 6,
+        "type": "yes_no",
+        "question": "'سَـ' (sa-) ədatı uzaq gələcəyi, 'سَوْفَ' (sawfa) isə yaxın gələcəyi bildirir?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Xeyr"
+      },
+      {
+        "id": 7,
+        "type": "yes_no",
+        "question": "İndiki zaman felini (Müdari) inkar etmək üçün 'لَا' (la) ədatı istifadə olunur?",
+        "options": ["Bəli", "Xeyr"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 8,
+        "type": "yes_no",
+        "question": "'إِذَا'  ədatı cümlədə zaman (nə vaxt ki) mənası verir?",
+        "options": ["Xeyr", "Bəli"],
+        "answer": "Bəli"
+      },
+      {
+        "id": 9,
+        "type": "translation_ar_az",
+        "question": "سَيَعْلَمُونَ الْحَقَّ.",
+        "options": [
+          "Onlar haqqı bilirlər.",
+          "Haqqı mən biləcəyəm.",
+          "Onlar tezliklə haqqı biləcəklər.",
+          "Biz haqqı biləcəyik."
+        ],
+        "answer": "Onlar tezliklə haqqı biləcəklər."
+      },
+      {
+        "id": 10,
+        "type": "translation_ar_az",
+        "question": "لَا يَرْحَمُ إِبْلِيسُ النَّاسَ.",
+        "options": [
+          "İblis insanlara rəhm etdi.",
+          "İnsanlar İblisə rəhm etmirlər.",
+          "İblis insanlara rəhm etmir.",
+          "İblis insanlara rəhm edəcək."
+        ],
+        "answer": "İblis insanlara rəhm etmir."
+      },
+      {
+        "id": 11,
+        "type": "translation_ar_az",
+        "question": "أَتَحْفَظُ الْقُرْآنَ أَوْ الْحَدِيثَ؟",
+        "options": [
+          "Mən Quranı və ya hədisi hifz edirəm.",
+          "Onlar Quranı yaxud hədisi oxuyurlar.",
+          "Sən Quranı və ya hədisi hifz edirsən?",
+          "Quran və hədis hikmətlidir."
+        ],
+        "answer": "Sən Quranı və ya hədisi hifz edirsən?"
+      },
+      {
+        "id": 12,
+        "type": "translation_ar_az",
+        "question": "إِذَا جَاءَ النَّصْرُ.",
+        "options": [
+          "Əgər yardım gəlsəydi.",
+          "Yardım gələndə (nə vaxt ki yardım gələr).",
+          "Yardım və qələbə gəldi.",
+          "Yardım gəlməyəcək."
+        ],
+        "answer": "Yardım gələndə (nə vaxt ki yardım gələr)."
+      },
+      {
+        "id": 13,
+        "type": "grammar_theory",
+        "question": "Aşağıdakılardan hansı 'və ya / yaxud' mənasını verən seçim bağlayıcısıdır?",
+        "options": ["لَوْ", "إِذَا", "أَوْ", "لَا"],
+        "answer": "أَوْ"
+      },
+      {
+        "id": 14,
+        "type": "translation_az_ar",
+        "question": "Onlar inkar etmirlər (indi).",
+        "options": [
+          "لَا يَكْفُرُونَ",
+          "مَا كَفَرُوا",
+          "سَيَكْفُرُونَ",
+          "لَا تَكْفُرُونَ"
+        ],
+        "answer": "لَا يَكْفُرُونَ"
+      },
+      {
+        "id": 15,
+        "type": "translation_az_ar",
+        "question": "Sən (tezliklə) yazacaqsan.",
+        "options": [
+          "سَوْفَ تَكْتُبُ",
+          "سَتَكْتُبُ",
+          "تَكْتُبُ",
+          "سَأَكْتُبُ"
+        ],
+        "answer": "سَتَكْتُبُ"
+      }
+    ]
+  }
+}

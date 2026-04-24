@@ -1,0 +1,127 @@
+{
+  "quiz_general_revision": {
+    "title": "Ərəb dili 101: 1-15 Dərslər (Təkrar)",
+    "questions": [
+      {
+        "id": 1,
+        "type": "grammar_mix",
+        "question": "Aşağıdakılardan hansı 'Allahın sadiq elçisi' (İzafə + Nə't) ifadəsidir?",
+        "options": [
+          "رَسُولُ اللهِ الصَّادِقُ",
+          "الرَّسُولُ اللهِ الصَّادِقُ",
+          "رَسُولُ اللهِ صَادِقٌ",
+          "رَسُولٌ اللهِ الصَّادِقُ"
+        ],
+        "answer": "رَسُولُ اللهِ الصَّادِقُ"
+      },
+      {
+        "id": 2,
+        "type": "verb_tense",
+        "question": "'Biz yazdıq' (Mazi) və 'Biz yazırıq' (Müdari) cütlüyünü seçin:",
+        "options": [
+          "كَتَبْتُمْ - تَكْتُبُونَ",
+          "كَتَبْنَا - نَكْتُبُ",
+          "كَتَبُوا - يَكْتُبُونَ",
+          "كَتَبْتُ - أَكْتُبُ"
+        ],
+        "answer": "كَتَبْنَا - نَكْتُبُ"
+      },
+      {
+        "id": 3,
+        "type": "negation",
+        "question": "Mazi (keçmiş) və Müdari (indiki) fellərinin inkar ədatları hansılardır?",
+        "options": [
+          "لَا (Mazi) - مَا (Müdari)",
+          "سَـ (Mazi) - سَوْفَ (Müdari)",
+          "مَا (Mazi) - لَا (Müdari)",
+          "لَمْ (Mazi) - لَنْ (Müdari)"
+        ],
+        "answer": "مَا (Mazi) - لَا (Müdari)"
+      },
+      {
+        "id": 4,
+        "type": "preposition_idafa",
+        "question": "Boşluğu tamamlayın: هُوَ يَكْتُبُ ....... (öz qələmi ilə)",
+        "options": [
+          "بِقَلَمِهِ",
+          "فِي قَلَمِهِ",
+          "عَلَى قَلَمِهِ",
+          "مِنْ قَلَمِهِ"
+        ],
+        "answer": "بِقَلَمِهِ"
+      },
+      {
+        "id": 5,
+        "type": "future",
+        "question": "'Onlar tezliklə biləcəklər' cümləsinin ərəbcəsi hansıdır?",
+        "options": [
+          "سَوْفَ يَعْلَمُونَ",
+          "سَيَعْلَمُونَ",
+          "لَا يَعْلَمُونَ",
+          "مَا عَلِمُوا"
+        ],
+        "answer": "سَيَعْلَمُونَ"
+      },
+      {
+        "id": 6,
+        "type": "translation",
+        "question": "Tərcümə edin: إِذَا جَاءَ نَصْرُ اللهِ",
+        "options": [
+          "Allahın yardımı gəldi.",
+          "Nə vaxt ki Allahın yardımı gələr.",
+          "Allahdan yardım tələb etdik.",
+          "Allahın yardımı böyükdür."
+        ],
+        "answer": "Nə vaxt ki Allahın yardımı gələr."
+      },
+      {
+        "id": 7,
+        "type": "logic",
+        "question": "Aşağıdakılardan hansı (əgər) bağlayıcısıdır?",
+        "options": [
+          "أَوْ",
+          "لَوْ",
+          "إِذَا",
+          "أَمْ"
+        ],
+        "answer": "لَوْ"
+      },
+      {
+        "id": 8,
+        "type": "plural_agreement",
+        "question": "Düzgün fel-fail uzlaşmasını seçin: (Kişilər getdilər)",
+        "options": [
+          "ذَهَبُوا الرِّجَالُ",
+          "ذَهَبَ الرِّجَالُ",
+          "ذَهَبَتِ الرِّجَالُ",
+          "ذَهَبْنَا الرِّجَالُ"
+        ],
+        "answer": "ذَهَبَ الرِّجَالُ"
+      },
+      {
+        "id": 9,
+        "type": "adverb",
+        "question": "'Məscidin qarşısında' ifadəsinin ərəbcəsi hansıdır?",
+        "options": [
+          "وَرَاءَ الْمَسْجِدِ",
+          "أَمَامَ الْمَسْجِدِ",
+          "تَحْتَ الْمَسْجِدِ",
+          "بَعْدَ الْمَسْجِدِ"
+        ],
+        "answer": "أَمَامَ الْمَسْجِدِ"
+      },
+      {
+        "id": 10,
+        "type": "attached_pronoun",
+        "question": "'Sizin (kc) millətiniz' (mənsubiyyət) hansıdır?",
+        "options": [
+          "مِلَّتُنَا",
+          "مِلَّتُكُمْ",
+          "مِلَّتُهُمْ",
+          "مِلَّتُكُنَّ"
+        ],
+        "answer": "مِلَّتُكُمْ"
+      }
+    ]
+  }
+}

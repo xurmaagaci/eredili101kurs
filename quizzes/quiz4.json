@@ -1,0 +1,166 @@
+{
+  "lesson_title": "Ərəb dili 101: Dərs 5 (Nə't və Mən'ut - İrəli Səviyyə)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Azərbaycan dilinə doğru tərcüməni seçin: صِرَاطٌ مُسْتَقِيمٌ",
+      "options": [
+        "Düzgün yol.",
+        "Düzgün bir yol.",
+        "Yol düzgündür.",
+        "Düzgün yollar."
+      ],
+      "correct_answer": "Düzgün bir yol."
+    },
+    {
+      "id": 2,
+      "question": "Boşluğu tamamlayın: الْقَلْبُ ....... (salamat/sağlam)",
+      "options": [
+        "سَلِيمٌ",
+        "السَّلِيمُ",
+        "سَلِيمَةٌ",
+        "السَّلِيمَةُ"
+      ],
+      "correct_answer": "السَّلِيمُ"
+    },
+    {
+      "id": 3,
+      "question": "'Şiddətli əzab' (müəyyən) ifadəsinin ərəbcəsi hansıdır?",
+      "options": [
+        "عَذَابٌ شَدِيدٌ",
+        "الْعَذَابُ الشَّدِيدُ",
+        "الْعَذَابُ شَدِيدٌ",
+        "عَذَابُ الشَّدِيدِ"
+      ],
+      "correct_answer": "الْعَذَابُ الشَّدِيدُ"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu tamamlayın (hikmətli bir ayə):  آيَةٌ .......",
+      "options": [
+        "حَكِيمٌ",
+        "الْحَكِيمَةُ",
+        "حَكِيمَةٌ",
+        "حَكِيمُونَ"
+      ],
+      "correct_answer": "حَكِيمَةٌ"
+    },
+    {
+      "id": 5,
+      "question": "Qrammatik cəhətdən doğru olanı seçin (fəsad törədən kişi):",
+      "options": [
+        "رَجُلٌ الْمُفْسِدُ",
+        "الرَّجُلُ مُفْسِدٌ",
+        "الرَّجُلُ الْمُفْسِدُ",
+        "رَجُلُ مُفْسِدٌ"
+      ],
+      "correct_answer": "الرَّجُلُ الْمُفْسِدُ"
+    },
+    {
+      "id": 6,
+      "question": "Azərbaycan dilinə tərcümə edin: نِعْمَةٌ كَبِيرَةٌ",
+      "options": [
+        "Böyük nemət.",
+        "Böyük bir nemət.",
+        "Nemət böyükdür.",
+        "Nemətlər böyükdür."
+      ],
+      "correct_answer": "Böyük bir nemət."
+    },
+    {
+      "id": 7,
+      "question": "Hansı söz 'Sifət' (Nə't) ola bilməz?",
+      "options": [
+        "شَدِيدٌ",
+        "مُسْتَقِيمٌ",
+        "قَرْيَةٌ",
+        "سَلِيمٌ"
+      ],
+      "correct_answer": "قَرْيَةٌ"
+    },
+    {
+      "id": 8,
+      "question": "Boşluğu tamamlayın: النَّفْسُ ....... (şərr/pislik edən)",
+      "options": [
+        "الشِّرِّيرُ",
+        "شِرِّيرَةٌ",
+        "الشِّرِّيرَةُ",
+        "شِرِّيرٌ"
+      ],
+      "correct_answer": "الشِّرِّيرَةُ"
+    },
+    {
+      "id": 9,
+      "question": "Bu isim-sifət söz birləşməsidir? الْوَلَدُ صَالِحٌ",
+      "options": [
+        "Bəli, isim-sifət söz birləşməsidir.",
+        "Xeyr, bu mübtəda-xəbər cümləsidir."
+      ],
+      "correct_answer": "Xeyr, bu mübtəda-xəbər cümləsidir."
+    },
+    {
+      "id": 10,
+      "question": "Doğru tərcüməni seçin: 'Yaxın bir kənd'",
+      "options": [
+        "الْقَرْيَةُ الْقَرِيبَةُ",
+        "قَرْيَةٌ قَرِيبَةٌ",
+        "قَرْيَةٌ قَرِيبٌ",
+        "الْقَرْيَةُ قَرِيبَةٌ"
+      ],
+      "correct_answer": "قَرْيَةٌ قَرِيبَةٌ"
+    },
+    {
+      "id": 11,
+      "question": "Azərbaycan dilinə tərcümə edin: الإِيمَانُ الصَّادِقُ",
+      "options": [
+        "İman sadiqdir.",
+        "Sadiq iman.",
+        "Sadiq bir iman.",
+        "İmanlar sadiqdir."
+      ],
+      "correct_answer": "Sadiq iman."
+    },
+    {
+      "id": 12,
+      "question": "Sifət özündən əvvəl gələn isimlə neçə meyara görə uzlaşmalıdır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 13,
+      "question": "Boşluğu tamamlayın (Dua xeyirdir): الدُّعَاءُ .......",
+      "options": [
+        "خَيْرٌ",
+        "الْخَيْرُ",
+        "خَيْرَةٌ",
+        "الْخَيْرَةُ"
+      ],
+      "correct_answer": "خَيْرٌ"
+    },
+    {
+      "id": 14,
+      "question": "Aşağıdakılardan hansı 'Hikmətli söz' (müəyyən) deməkdir?",
+      "options": [
+        "قَوْلٌ حَكِيمٌ",
+        "الْقَوْلُ الْحَكِيمُ",
+        "الْقَوْلُ حَكِيمٌ",
+        "قَوْلُ الْحَكِيمِ"
+      ],
+      "correct_answer": "الْقَوْلُ الْحَكِيمُ"
+    },
+    {
+      "id": 15,
+      "question": "İsim-sifət söz birləşməsində hansı söz birinci gəlir?",
+      "options": [
+        "Sifət (Nə't)",
+        "Təsvir olunan isim (Mən'ut)"
+      ],
+      "correct_answer": "Təsvir olunan isim (Mən'ut)"
+    }
+  ]
+}
