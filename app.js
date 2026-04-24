@@ -97,15 +97,15 @@ function renderQuestion() {
 
         return `
             <button onclick="selectAnswer(${idx})"
-                class="w-full p-5 flex items-center justify-between rounded-2xl border-2 transition-all mb-4 ${classes}"
+                class="w-full p-5 flex flex-row-reverse items-center justify-between rounded-2xl border-2 transition-all mb-4 ${classes}"
                 ${answered ? "disabled" : ""}>
 
                 <span
-    class="text-xl"
-    dir="rtl"
-    style="unicode-bidi: isolate; text-align: right; font-family: 'Amiri', serif;"
+  class="text-xl ${/[\u0600-\u06FF]/.test(opt) ? 'font-arabic text-right' : 'text-left'} w-full"
+  dir="${/[\u0600-\u06FF]/.test(opt) ? 'rtl' : 'ltr'}"
+  style="unicode-bidi: isolate;"
 >
-    ${opt}
+  ${opt}
 </span>
 
             </button>
@@ -127,10 +127,6 @@ function renderQuestion() {
     <div class="w-20"></div> <!-- spacer for balance -->
 
 </div>
-            <h1 class="text-xl font-bold">
-                Sual ${current + 1} / ${questions.length}
-            </h1>
-        </div>
 
         <div class="px-6 pt-4">
             <div class="w-full h-2 bg-slate-100 rounded-full overflow-hidden">
@@ -142,11 +138,9 @@ function renderQuestion() {
 
            <p class="text-xl md:text-2xl font-medium mb-8"
    dir="ltr"
-   style="text-align: left;">
-   dir="ltr"
-   style="unicode-bidi: plaintext;">
+   style="text-align: left; unicode-bidi: isolate;">
     ${q.question}
-</p>
+</p>    
 
             <div>
                 ${optionsHTML}
