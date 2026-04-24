@@ -136,8 +136,10 @@ function renderQuestion() {
 
         <div class="p-6 md:p-10">
 
-           <p class="text-xl md:text-2xl font-medium mb-8 text-left leading-relaxed">
-    ${q.question.replace(/([\u0600-\u06FF].*?)/g, '<span dir="rtl" style="unicode-bidi:isolate; font-family: Amiri;">$1</span>')}
+           <p class="text-xl md:text-2xl font-medium mb-8 text-left leading-relaxed"
+   dir="auto"
+   style="unicode-bidi: plaintext;">
+    ${q.question}
 </p>    
 
             <div>
